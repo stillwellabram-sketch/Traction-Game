@@ -1,0 +1,93 @@
+[
+  {
+    "file": "assets/materials/Metal032/Color.jpg",
+    "sha256": "49493d6ade78ccbbbd270c6a15e4b4c9b1a097e66ddf28a1073de3e85712d9af",
+    "source": "https://ambientcg.com/view?id=Metal032",
+    "download": "https://ambientcg.com/get?file=Metal032_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Metal032/NormalGL.jpg",
+    "sha256": "8537c1015de5cc33d20231e5b6aa27309edcb983e1c37e608d08bb00f733747d",
+    "source": "https://ambientcg.com/view?id=Metal032",
+    "download": "https://ambientcg.com/get?file=Metal032_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Metal032/Roughness.jpg",
+    "sha256": "55d3eee2b69008ad3701b18977495531d0e3515105102e56f40a4d1098d10bce",
+    "source": "https://ambientcg.com/view?id=Metal032",
+    "download": "https://ambientcg.com/get?file=Metal032_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Metal032/Metalness.jpg",
+    "sha256": "843102638fa0a5bf897888868877efab8ccdc4cb84a48e57bdb52bfb30f5e714",
+    "source": "https://ambientcg.com/view?id=Metal032",
+    "download": "https://ambientcg.com/get?file=Metal032_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Wood050/Color.jpg",
+    "sha256": "a16cab3c789dd34570759b5bfb7ced36f983c180a20e3796d3dcb5571d94053d",
+    "source": "https://ambientcg.com/view?id=Wood050",
+    "download": "https://ambientcg.com/get?file=Wood050_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Wood050/NormalGL.jpg",
+    "sha256": "199be90187d780760012f479e492a913999e33a34ac4d9cd4186b4d2c570d9ce",
+    "source": "https://ambientcg.com/view?id=Wood050",
+    "download": "https://ambientcg.com/get?file=Wood050_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Wood050/Roughness.jpg",
+    "sha256": "9055b55a3cf39e7dbeb1aa0479c86d30878622f28b2d521cb21983718b3e0b5d",
+    "source": "https://ambientcg.com/view?id=Wood050",
+    "download": "https://ambientcg.com/get?file=Wood050_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Concrete034/Color.jpg",
+    "sha256": "8ceb9186d990b31fce785e06fdc6974c160f1d27c43f6160266f164deba713aa",
+    "source": "https://ambientcg.com/view?id=Concrete034",
+    "download": "https://ambientcg.com/get?file=Concrete034_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Concrete034/NormalGL.jpg",
+    "sha256": "e509eb9dfa978e780fbebfd2acacc2ce158b5b7ced722ddc0759039dd51e18ca",
+    "source": "https://ambientcg.com/view?id=Concrete034",
+    "download": "https://ambientcg.com/get?file=Concrete034_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Concrete034/Roughness.jpg",
+    "sha256": "a4a9e39857a19afd23a778e5abf44fcdf6bd7f93918f1cf6878b41933e553511",
+    "source": "https://ambientcg.com/view?id=Concrete034",
+    "download": "https://ambientcg.com/get?file=Concrete034_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Bricks059/Color.jpg",
+    "sha256": "22b53ec9143b348ae26ed958cdfaa8977195c8daf534dc219f72dd10f2728e7a",
+    "source": "https://ambientcg.com/view?id=Bricks059",
+    "download": "https://ambientcg.com/get?file=Bricks059_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Bricks059/NormalGL.jpg",
+    "sha256": "0f313dae999ac33be4322b8e80a6877d455b4793bea3e9a83732a071bd92c436",
+    "source": "https://ambientcg.com/view?id=Bricks059",
+    "download": "https://ambientcg.com/get?file=Bricks059_1K-JPG.zip",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "assets/materials/Bricks059/Roughness.jpg",
+    "sha256": "58b905709e5d42451ab5aede42b386ceb442a21f979bb308eff77336db712b84",
+    "source": "https://ambientcg.com/view?id=Bricks059",
+    "download": "https://ambientcg.com/get?file=Bricks059_1K-JPG.zip",
+    "license": "CC0-1.0"
+  }
+]
